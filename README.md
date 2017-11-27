@@ -12,4 +12,4 @@ John Baskerville
 History of Type
 ---------------
 - [A Brief History of Type 01](https://ryanmcclelland.github.io/john_baskerville/a_brief_history_of_type.html)
-- [A Brief History of Type 02](https://github.com/ryanmcclelland/john_baskerville/blob/gh-pages/baskerville5.html)
+- [A Brief History of Type 02](https://github.com/ryanmcclelland/john_baskerville/a_brief_history_of_type2.html)
