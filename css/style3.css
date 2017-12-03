@@ -19,7 +19,8 @@ body {
 header h2 {
     font-style:italic;
     font-size: 2.25em;
-    color: #333;
+    color: #3D5459;
+    text-align: center;
 }
 
 h1, h2, {
@@ -52,6 +53,7 @@ h3 {
     margin-bottom: 1em; 
     line-height: 1.5em
     color: #B6AE73;
+    text-align: center;
 }
 blockquote {
     padding: 1 em 0 4em 0;
