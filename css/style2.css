@@ -16,6 +16,7 @@ body {
     line-height: 1.8em;
 }
 
+
 header h2 {
     font-style:italic;
     font-size: 2.25em;
@@ -57,7 +58,7 @@ blockquote cite {
 
 /* -------LINKS------*/
 a {
-    color: #A9A9A9;
+    color: #fff;
     text-decoration: none;
 }
 a hover {
@@ -90,7 +91,7 @@ nav ul li {
 }
 nav a:hover {
     border-bottom: none;
-    color: #
+    color: #c06
 }
 
 /* -------IMAGES------- */
