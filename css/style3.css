@@ -9,9 +9,9 @@
 body {
     width: 75%;
     max-width: 760px
-    font-family: Georgia, 'Times New Roman', serif;
+    font-family: Arial, 'Times New Roman', serif;
     margin: auto;
-    background: #f0f0f0;
+    background: #D3D3D3;
     color: #333;
     line-height: 1.8em;
 }
@@ -24,7 +24,7 @@ header h2 {
 
 h1, h2, h3 {
     font-weight: normal;
-    color: #c06;
+    color: #3D5459;
     text-align: center;
 }
 
@@ -70,7 +70,7 @@ nav{
     left: 0;
     margin: auto;
     width: 100%;
-    background-color: #333;
+    background-color: #55A2B3;
     padding: 1em 0
 }
 nav ul {
@@ -88,7 +88,7 @@ nav ul li {
 }
 nav a:hover {
     border-bottom: none;
-    color: #c06
+    color: #3D5459
 }
 
 /* -------IMAGES------- */
@@ -112,7 +112,7 @@ footer hr{
     margin: 3em 0;
 }
 footer a {
-    color: #c06;
+    color: #3D5459;
 }
 footer p{
     margin-top: 2em;
