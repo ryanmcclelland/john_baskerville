@@ -44,6 +44,11 @@ h2 {
     font-size: 2.25em;
     margin-bottom: 1em;
 }
+
+h3 {
+    font-size: 1.10em;
+        margin-bottom: 1em;
+}
 blockquote {
     padding: 1 em 0 4em 0;
     font-size: 1.75em;
