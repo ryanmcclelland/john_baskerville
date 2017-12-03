@@ -67,10 +67,14 @@ a hover {
 
 /* -------NAVIGATION------- */
 nav{
-    margin: auto;
     width: 100%;
-    background-color: #333;
-    padding: 1em 0
+    margin: auto;
+    padding: 1em 0;
+    border-top: 1px solid #403F3B;
+    border-bottom: 1px solid #403F3B;
+    border-radius: 5px;
+    margin-bottom: 4em;
+    background: rgba(0,0,0,.1);
 }
 nav ul {
     text-align: center;
