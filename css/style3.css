@@ -73,8 +73,8 @@ a hover {
 
 /* -------NAVIGATION------- */
 nav{
-    top: 0;
-    left: 0;
+    top: 1 em;
+    left: 1em;
     margin: auto;
     width: 100%;
     background-color: #3A5F6E;
