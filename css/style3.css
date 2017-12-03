@@ -63,7 +63,7 @@ blockquote cite {
 
 /* -------LINKS------*/
 a {
-    color: #fff;
+    color: #6F6E64;
     text-decoration: none;
 }
 a hover {
@@ -77,7 +77,7 @@ nav{
     left: 1em;
     margin: auto;
     width: 100%;
-    background-color: #3A5F6E;
+    background-color: #00ffffff;
     padding: 1em 0;
 }
 nav ul {
@@ -95,7 +95,7 @@ nav ul li {
 }
 nav a:hover {
     border-bottom: none;
-    color: #96DDF7
+    color: #B6AE73
 }
 
 /* -------IMAGES------- */
