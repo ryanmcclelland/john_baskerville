@@ -31,7 +31,6 @@ h1, h2, h3 {
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
-    font-family: 'Roboto', sans-serif;
     margin-bottom: 1.5em;
     line-height: 1.5;
 }
