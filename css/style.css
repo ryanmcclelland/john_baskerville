@@ -10,7 +10,6 @@ body {
     width: 75%;
     max-width: 760px;
     font-family: 'Libre Baskerville', serif;
-    font-family: 'Roboto', sans-serif;
     margin: auto;
     background: #f0f0f0;
     color: #333;
@@ -32,6 +31,7 @@ h1, h2, h3 {
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
+    font-family: 'Roboto', sans-serif;
     margin-bottom: 1.5em;
     line-height: 1.5;
 }
@@ -104,6 +104,7 @@ img {
 
 /* -------FOOTER-------*/
 footer {
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: .75em;
     line-height: 1.5em;
