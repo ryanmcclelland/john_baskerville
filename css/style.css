@@ -72,11 +72,11 @@ blockquote p {
 }
 
 .kern {
-    letter-spacing: -3px
+    letter-spacing: -5px
 }
 
 .amp {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 /* -------LINKS------*/
