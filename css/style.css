@@ -15,18 +15,26 @@ body {
     color: #333;
     line-height: 1.8em;
 }
-header {margin: 6em 0}
+header {margin: 2em 0}
 
 header h2 {
     font-style:italic;
     font-size: 2.25em;
     color: #333;
+    margin-top: .6em;
+    margin-bottom: 1.2em;
 }
 
 h1, h2, h3 {
     font-weight: normal;
     color: #c06;
     text-align: center;
+}
+
+section {
+    border-top: 1px solid #DCDCDC;
+    margin-top: 2em;
+    
 }
 
 /* -------TYPOGRAPHY------- */
@@ -38,14 +46,14 @@ p, li, blockquote {
 p {font-family: 'Roboto', sans-serif;}
 
 h1 {
-    font-size: 4em;
-    margin-top: 1em;
+    font-size: 5em;
+    margin-top: 1.3em;
     margin-bottom: 0.1em;
 }
 
 h2 {
     font-size: 2.25em;
-    margin-bottom: 1em;
+    margin-top: 1em;
 }
 blockquote {
     padding: 1 em 0 4em 0;
@@ -55,6 +63,20 @@ blockquote {
 }
 blockquote cite {
     font-size: 0.75em;
+}
+
+blockquote p {
+    font-family: 'Libre Baskerville', sans-serif;
+    hanging-punctuation: first;
+    text-indent: -.5em;
+}
+
+.kern {
+    letter-spacing: -3px
+}
+
+.amp {
+    font-size: 1.2em;
 }
 
 /* -------LINKS------*/
@@ -103,6 +125,35 @@ img {
     max-width: 100%;
 }
 
+/* -------TABLE------- */
+table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+caption{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: white;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+th, td {
+    padding: .6em;
+}
+
+table, td {
+    background: #BFBBBE;
+    border: 1px solid #fff;
+}
 /* -------FOOTER-------*/
 footer {
     font-family: 'Roboto', sans-serif;
