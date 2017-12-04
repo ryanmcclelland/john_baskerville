@@ -35,6 +35,8 @@ p, li, blockquote {
     line-height: 1.5;
 }
 
+p {font-family: 'Roboto', sans-serif;}
+
 h1 {
     font-size: 4em;
     margin-top: 1em;
