@@ -8,7 +8,7 @@
 
 body {
     width: 75%;
-    max-width: 760px
+    max-width: 760px;
     font-family: Arial, 'Helvetica', sans-serif;
     margin: auto;
     background: #F4FCFF;
@@ -51,7 +51,7 @@ h2 {
 h3 {
     font-size: 1.10em;
     margin-bottom: 1em; 
-    line-height: 1.5em
+    line-height: 1.5em;
     color: #B6AE73;
     text-align: center;
 }
