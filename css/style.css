@@ -7,8 +7,6 @@
 }
 
 body {
-    width: 75%;
-    max-width: 760px;
     font-family: 'Libre Baskerville', serif;
     margin: auto;
     background: #f0f0f0;
@@ -25,6 +23,12 @@ header h2 {
     margin-bottom: 1.2em;
 }
 
+h1, h2, h3, p, blockquote, footer, hr{ 
+    width: 90%;
+    max-width: 760px;
+    margin: auto;
+}
+
 h1, h2, h3 {
     font-weight: normal;
     color: #c06;
@@ -32,10 +36,14 @@ h1, h2, h3 {
 }
 
 section {
-    border-top: 1px solid #DCDCDC;
     margin-top: 2em;
-    
-}
+    padding-bottom: 1em;
+    }
+
+.typeface {
+    padding-top: 1em;
+    background: #333;
+    color: white}
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
@@ -66,7 +74,7 @@ blockquote cite {
 }
 
 blockquote p {
-    font-family: 'Libre Baskerville', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     hanging-punctuation: first;
     text-indent: -.5em;
 }
