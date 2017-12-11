@@ -43,7 +43,10 @@ section {
 .typeface {
     padding-top: 1em;
     background: #333;
-    color: white;}
+    color: white;
+}
+
+.typeface h2 {color: #FF96CA;}
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
