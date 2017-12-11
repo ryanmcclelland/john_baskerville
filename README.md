@@ -9,6 +9,7 @@ John Baskerville
 - [John Baskerville 04](https://ryanmcclelland.github.io/john_baskerville/baskerville4.html)
 - [John Baskerville 05](https://ryanmcclelland.github.io/john_baskerville/baskerville5.html)
 - [John Baskerville 06](https://ryanmcclelland.github.io/john_baskerville/baskerville6.html)
+- [John Baskerville 07](https://ryanmcclelland.github.io/john_baskerville/baskerville7.html)
 
 History of Type
 ---------------
