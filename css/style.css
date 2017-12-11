@@ -43,7 +43,7 @@ section {
 .typeface {
     padding-top: 1em;
     background: #333;
-    color: white}
+    color: white;}
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
@@ -85,6 +85,10 @@ blockquote p {
 
 .amp {
     font-size: 1.1em;
+}
+
+hr {
+    color: #DCDCDC;
 }
 
 /* -------LINKS------*/
