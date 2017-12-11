@@ -1,0 +1,12 @@
+article {
+display: flex;
+}
+
+.mrseavescontainer{
+flex:1;
+padding-left: 4em;
+}
+
+.themancontainer {
+flex:2;
+}
