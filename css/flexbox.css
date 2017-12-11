@@ -3,10 +3,10 @@ display: flex;
 }
 
 .mrseavescontainer{
-flex:1;
+flex:2;
 padding-left: 4em;
 }
 
 .themancontainer {
-flex:2;
+flex:1;
 }
