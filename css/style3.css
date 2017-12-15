@@ -13,7 +13,7 @@ body {
     max-width: 760px;
     font-family: Bodoni, 'Times New Roman', serif;
     margin: auto;
-    background: #F4FCFF;
+    background: #F3F6F8;
     color: #333;
     line-height: 1.8em;
 }
@@ -30,13 +30,22 @@ header h1 {
     font-size: 4em;
     color: #3D5459;
     text-align: center;
+    line-height: .5;;
 }
+
+.intro {font-size: 1.23em;
+    text-align: center}
+
+.sansserif {font-family: fantasy}
 
 h1, h2, {
     font-weight: normal;
     color: #3D5459;
     text-align: center;
 }
+
+h2 {text-align: center;
+color: #3D5459;}
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
