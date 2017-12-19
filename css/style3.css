@@ -81,6 +81,8 @@ blockquote {
     font-size: 1.75em;
     line-height: 1.4em;
     color: #777;
+    hanging-punctuation: first;
+    text-indent: -.5em;
 }
 blockquote cite {
     font-size: 0.75em;
@@ -161,6 +163,16 @@ th {
 }
 th, td {
     padding: .6em;
+}
+
+}
+td {
+    font-style: italic;
+}
+
+th {
+    font-weight: bold;
+    font-stretch: expanded;
 }
 
 table, td {
