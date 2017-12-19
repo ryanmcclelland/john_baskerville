@@ -33,7 +33,8 @@ header h1 {
     line-height: 1;
 }
 
-.intro {font-size: 1.23em;
+.intro {
+    font-size: 1.23em;
     text-align: center}
 
 .sansserif {font-family: fantasy}
@@ -45,7 +46,7 @@ h1, h2, {
 }
 
 h2 {text-align: center;
-color: #3D5459;}
+    color: #3D5459;}
 
 /* -------TYPOGRAPHY------- */
 p, li, blockquote {
@@ -68,8 +69,10 @@ h2 {
 
 h3 {
     font-size: 1.10em;
-    margin-bottom: 1em; 
-    line-height: 1.5em;
+    font-style: italic;
+    margin-bottom: 1.2em;
+    margin-top: 1em;
+    line-height: 1.9em;
     color: #B6AE73;
     text-align: center;
 }
