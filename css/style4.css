@@ -7,9 +7,9 @@
 }
 
 body {
-    width: 65%;
+    width: 75%;
     max-width: 750px;
-    line-height: 1.8em;
+    line-height: 1.5em;
     margin: auto;
 }
 
@@ -21,50 +21,53 @@ section {
 
 
 p {
-    font-size: .85em;
+    font-size: em;
     line-height: 1.8em;
     padding-bottom: 1.25em;
 }
 
 blockquote {
-    padding-top: 2.4em;
+    padding-top: 2.2em;
     font-size: 1em;
-    color: #A9A9A9;
-    text-indent: -5px;
+    color: 	#A9A9A9;
+    text-indent: -9px;
+    hanging-punctuation: first;
     letter-spacing: .03em;
 }
 
 blockquote p {
-    line-height: 1.8em;
-    font-size: 1.1em;
+    line-height: 1.6em;
+    font-size: 1.4em;
 }
 
-#normal {
+.quote {
     font-style: normal;
+    font-weight: 200;
 }
 
 cite {
-    font-size: .8em;
+    font-size: .9em;
     display: block;
     text-indent: 0.15em;
 }
 
 h1 {
-    font-weight: 1;
-    font-size: 3.69em;
+    font-weight: 300;
+    font-size: 5.2em;
+    line-height: 1.3em;
     padding-bottom: .2em;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 h2 {
     font-weight: 100;
-    font-size: 1.7em;
+    font-size: 2em;
     font-style: italic;
-    padding-bottom: 1.6em;
+    padding-bottom: 1em;
 }
 
 h3 {
-    font-size: .95em;
+    font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 1;
     padding-bottom: .9em;
@@ -74,41 +77,43 @@ h3 {
 /*---STYLING---*/
 
 hr {
-     border: .5px solid #E24646;
+     border: .9px solid #FF69B4;
      margin: 3.1em 0;
 }
 
-.removepadd {
+.born {
     padding-bottom: 0em;
 }
 
 .indent {
-    text-indent: 25px;
+    text-indent: 1em;
 }
 
-.libre {
+.one{
         font-family: 'Libre Baskerville', serif;
     }
 
-.libre p:nth-of-type(2):first-letter {
-    font-size: 4.6em;
-    line-height: 40px;
+.one p:nth-of-type(2):first-letter {
+    font-size: 4em;
+    line-height: 1.1em;
     float: left;
 }
 
-.open {
-    font-family: 'Open Sans', sans-serif;
+.two {
+    font-family: 'Roboto', sans-serif;
 }
 
-.arvo {
-    font-family: 'Arvo', serif;
+.three {
+    font-family: 'Roboto', sans-serif;
 }
 
-.arvo h3,
-.arvo p {
-    font-family: 'Open Sans', sans-serif;
+.three h3 {
+    font-family: 'Roboto', sans-serif;
+}
+.three p {
+    font-family: 'Roboto', sans-serif;
 }
 
 .introduction {
-    font-size: 1.1em;
+    font-size: 1.4em;
 }
