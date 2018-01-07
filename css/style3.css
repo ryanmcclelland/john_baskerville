@@ -198,3 +198,8 @@ footer a {
 footer p{
     margin-top: 2em;
 }
+
+li {
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+}
