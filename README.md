@@ -22,4 +22,4 @@ History of Type
 
 Type Exercise
 -------------
--[Type Exercise 01](https://ryanmcclelland.github.io/john_baskerville/type_baskerville.html)
+- [Type Exercise 01](https://ryanmcclelland.github.io/john_baskerville/type_baskerville.html)
